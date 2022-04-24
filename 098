@@ -1,17 +1,3 @@
---[[
- 
-Hats Required (Free)
-
-https://www.roblox.com/catalog/3443038622/International-Fedora-Peru
-https://www.roblox.com/catalog/3409612660/International-Fedora-USA
-https://www.roblox.com/catalog/4047554959/International-Fedora-Brazil
-https://www.roblox.com/catalog/3940375351/International-Fedora-Philippines
-https://www.roblox.com/catalog/62234425/Brown-Hair
- 
- 
- 
-]]--
-
 game:GetService("Players").LocalPlayer.Character.InternationalFedora.Name = 'fe1'
 game:GetService("Players").LocalPlayer.Character.InternationalFedora.Name = 'fe3'
 game:GetService("Players").LocalPlayer.Character["International Fedora"].Name = 'fe2'
